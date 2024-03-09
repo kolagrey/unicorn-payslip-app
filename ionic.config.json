@@ -1,0 +1,7 @@
+{
+  "name": "Unicorn Payslip",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
