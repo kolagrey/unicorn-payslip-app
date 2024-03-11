@@ -3,7 +3,7 @@
 
 ## Requirements ##
 
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com), [Node](https://nodejs.org/en/), and [Ionic CLI](https://ionicframework.com/docs/intro/cli) installed.
 
 ## Starting ##
 
