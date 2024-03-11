@@ -2,6 +2,7 @@ import axios from "axios";
 import { Filesystem, Directory } from "@capacitor/filesystem";
 import { TDownloadFileFromUrlParams } from "../types/downloader.type";
 
+// TODO: Requires proper testing - Ticket007
 export const downloadFileFromUrl = async ({
   url,
   fileName,
