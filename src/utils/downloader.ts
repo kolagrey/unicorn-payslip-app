@@ -32,6 +32,6 @@ export const downloadFileFromUrl = async ({
       }
     };
   } catch (error) {
-    console.error("Download error:", error);
+    throw error;
   }
 };
