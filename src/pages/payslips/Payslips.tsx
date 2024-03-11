@@ -14,7 +14,7 @@ import PayslipList from "../../components/payslip/PayslipList";
 import { TPayslipListItem } from "../../types/payslip.type";
 import { transformPayslipItemDates } from "../../utils/data-transformer";
 
-const Tab1: React.FC = () => {
+const PayslipsTab: React.FC = () => {
   const [payslips, setPayslips] = useState<TPayslipListItem[]>([]);
   const history = useHistory();
 
@@ -52,4 +52,4 @@ const Tab1: React.FC = () => {
   );
 };
 
-export default Tab1;
+export default PayslipsTab;
